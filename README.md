@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi! M0D1 here 👋
 
+
+
+
+- 🍻 Majoring in Cryptology.
+- 🔭 Currently working on **SIDH** that belongs to post-quantum cryptography
+- ✍️ [WebBlog](https://m0d1.top)
+- ⚡ Soullike game enthusiast.
+- 📫 Reach me: mdlw@m.scnu.edu.cn
 <!--
 **Madeep2000/Madeep2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
