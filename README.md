@@ -5,7 +5,7 @@
 
 - 🍻 Majoring in Cryptology.
 - 🔭 Currently working on **SIDH** that belongs to post-quantum cryptography
-- ✍️ [WebBlog](https://m0d1.top)
+- ✍️ [My WebBlog](https://m0d1.top)
 - ⚡ Soullike game enthusiast.
 - 📫 Reach me: mdlw@m.scnu.edu.cn
 <!--
