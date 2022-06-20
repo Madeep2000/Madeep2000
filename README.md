@@ -3,7 +3,7 @@
 
 
 
-- 🍻 Majoring in Cryptology.
+- 🍻 Majoring in Network engineering.
 - 🔭 Currently working on **SIDH** that belongs to post-quantum cryptography
 - ✍️ [My Blog](https://m0d1.top)
 - ⚡ Soullike game enthusiast.
