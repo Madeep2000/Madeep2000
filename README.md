@@ -4,7 +4,7 @@
 
 
 - 🍻 Majoring in Network engineering.
-- 🔭 Currently working on **SM9** and **SIDH**
+- 🔭 Currently working on **SM9**
 - ✍️ [My Blog](https://m0d1.top)
 - ⚡ Soullike game enthusiast.
 - 📫 Reach me: mdlw@m.scnu.edu.cn
